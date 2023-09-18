@@ -7,6 +7,7 @@ package printstudent;
 /**
  * modeling the student class - variable, behaviour
  * @author kumar
+ * modified date DAte 18.9.2023
  */
 public class Student 
 {
