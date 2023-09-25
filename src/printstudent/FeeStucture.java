@@ -10,6 +10,7 @@ package printstudent;
  */
 public class FeeStucture {
     private int amount;
+    private int year;
 
     /**
      * @return the amount
