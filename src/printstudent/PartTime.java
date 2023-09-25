@@ -5,7 +5,7 @@
 package printstudent;
 
 /**
- *
+ * date 25-09
  * @author kumar
  */
 public class PartTime 
